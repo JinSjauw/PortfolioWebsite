@@ -11305,6 +11305,11 @@ p.lead {
   }
 }
 
+.side-project-title
+{
+  border-top: 4px solid grey;
+}
+
 .social-icon-container
 {
   margin-top: 2em;
